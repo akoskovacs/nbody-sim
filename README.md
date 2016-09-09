@@ -1,7 +1,5 @@
 # mini-ksp
-Newtonian universal gravity demo on HTML5 canvas.
+Newtonian universal gravity n-body simulator.
 
-![Screenshot](http://akoskovacs.github.io/mini-ksp/screenshot.png)
-
-[Try it out here.](http://akoskovacs.github.io/mini-ksp/)
+[Try it out here.](http://akoskovacs.github.io/nbody-sim/)
 
